@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+.titulo-menor {
+    font-size: 22px;
+}
+
+#titulo-unico {
+    color: brown;
+}
+
+img {
+    width: 50%;
+    height: 300px;
+}
+
+img:hover {
+    cursor: pointer;
+}
